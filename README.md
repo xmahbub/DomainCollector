@@ -7,7 +7,7 @@
 ### What is Domain Collector ?
 Domain collector is an opensource software available for windows, Linux. 
 The software is written in Python. It is designed to generate URL list for any random search. 
-The output will be the top listed site. I used Persing technique for grabing data from web. 
+The output will be the top listed site. I used percing technique for grabbing data from web. 
 It is very useful for penetration tester. 
 Project link: github.com/larrylinus/DomainCollector 
 <br/><br/><br/>
