@@ -48,6 +48,7 @@ Linux and other
 * `python DomainCollector.py`
 
 Coded by: [MD Mahbub Hasan](#real-cool-heading)
-<a href="https://mahbubhasan.ninja/">Site</a>
+</br>
+<h1><a href="https://mahbubhasan.ninja/">Site</a></h1>
 
 
