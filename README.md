@@ -47,7 +47,6 @@ Linux and other
 * `First see requirements`
 * `python DomainCollector.py`
 
-Coded by: [MD Mahbub Hasan](#https://mahbubhasan.ninja/)
-
+Coded by: [MD Mahbub Hasan](#real-cool-heading)
 
 
