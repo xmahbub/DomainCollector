@@ -49,6 +49,6 @@ Linux and other
 
 Coded by: [MD Mahbub Hasan](#real-cool-heading)
 </br>
-<h1><a href="https://mahbubhasan.ninja/">Site</a></h1>
+<a href="https://mahbubhasan.ninja/">Site</a>
 
 
